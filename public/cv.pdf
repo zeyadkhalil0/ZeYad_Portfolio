@@ -1,0 +1,8 @@
+# This is a placeholder for the CV PDF file
+# In a real implementation, you would place the actual CV PDF file here
+# For now, this serves as a placeholder to prevent 404 errors
+
+# To add the actual CV:
+# 1. Save your CV as a PDF file named "cv.pdf"
+# 2. Place it in the public folder
+# 3. The download functionality will work automatically
